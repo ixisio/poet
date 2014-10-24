@@ -1,5 +1,8 @@
 # Change Log
 
+## HEAD
+* Update npm dependencies and devDependencies
+
 ## v2.0.0
 
 * Now depending on Express 4.0.0+, issue #102, no longer supports Express v3.
